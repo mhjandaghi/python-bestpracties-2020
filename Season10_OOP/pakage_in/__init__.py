@@ -1,0 +1,1 @@
+from .package_out.module1 import MONTH, Animal

@@ -1,0 +1,6 @@
+a, b
+c, d
+u, y
+e, l
+m, z
+p, o

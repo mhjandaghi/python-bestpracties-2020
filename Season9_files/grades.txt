@@ -1,0 +1,4 @@
+ali 15
+hosein 20
+karim 18
+zahra 14

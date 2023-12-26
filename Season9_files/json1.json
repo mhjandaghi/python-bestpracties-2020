@@ -1,0 +1,10 @@
+{
+    "name": "ali",
+    "age": 12,
+    "b": false,
+    "lessons": [
+        "math",
+        "sport",
+        "history"
+    ]
+}
