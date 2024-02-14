@@ -1,3 +1,5 @@
+# mahdi jandaghi
+
 from termcolor import colored
 from time import sleep
 from os import system
